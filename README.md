@@ -11,7 +11,7 @@
 <li>Backend-Lang: <a href = "https://developer.android.com/kotlin?gclsrc=aw.ds&gclid=CjwKCAjwy42FBhB2EiwAJY0yQs3o8U-t9sR2gml9jNy1vScWUfl2eVlwOc-3SNpPzOeMRr4txjLwhRoCfoMQAvD_BwE" target = _blank>Kotlin</a></li><br>
 <li>Api's- <a href = "https://codeforces.com/apiHelp" target = _blank>Codeforces API</a></li><br>
 </ol> 
-![Screenshot_20210715_122639](https://user-images.githubusercontent.com/63181338/125751634-416ccd1c-81bb-4de0-87ae-a5aa2cae369b.jpg)
+<img href = "![Screenshot_20210715_122639](https://user-images.githubusercontent.com/63181338/125751634-416ccd1c-81bb-4de0-87ae-a5aa2cae369b.jpg)"></img>
 ![Screenshot_20210715_122512](https://user-images.githubusercontent.com/63181338/125751646-0c12d9e8-34ef-488f-8483-ac1854033c12.jpg)
 ![Screenshot_20210715_122502](https://user-images.githubusercontent.com/63181338/125751649-4bfd7003-9f49-4145-9f9d-ce571d805c57.jpg)
 ![Screenshot_20210715_122451](https://user-images.githubusercontent.com/63181338/125751652-3cb1385b-d200-45ba-8749-b2d343957185.jpg)
