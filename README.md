@@ -1,5 +1,5 @@
 # Hello Friends, 
-### I have created a simple android application named <a href = "https://www.amazon.in/dp/B095CX7BNR/ref=cm_sw_r_wa_apa_glt_fabc_TXMNKE85TK3D6KE6QJA3">CFProfile</a>.
+### I have created a simple android application named <a href = "https://www.amazon.com/gp/product/B095CX7BNR">CFProfile</a>.
 ### This app simply takes Codeforces 'Handle' as a input and displays all the profile details with submissions etc.
 ### You can have a quick look over <a href = "https://drive.google.com/file/d/1x5wOZqhRNDoxn1JrUG05S-ICxjIDMHdw/view?usp=sharing" target = _blank>video</a> to know how it works.
 ### You can also refer <a href = "https://docs.google.com/document/d/1isZPRReDTYX16aoqNWyFVMN2e77nQ9r1trJPJJnQeOk/edit?usp=sharing">directions.doc</a> file to know working.
